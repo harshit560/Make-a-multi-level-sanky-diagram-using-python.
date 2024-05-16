@@ -1,0 +1,124 @@
+Year,Calamity,Crop Type,Region
+2010,Cyclone,Sorghum,Andhra Pradesh
+2011,Flood,Mustard,Chhattisgarh
+2022,Pest,Rice,Tamil Nadu
+2014,Drought,Rice,Uttar Pradesh
+2010,Cyclone,Sugarcane,Telangana
+2011,Flood,Maize,Bihar
+2012,Pest,Mustard,Telangana
+2013,Drought,Soybean,Uttar Pradesh
+2014,Flood,Cotton,Andhra Pradesh
+2015,Cyclone,Wheat,Chhattisgarh
+2016,Drought,Pigeon pea,Maharashtra
+2017,Pest,Chickpea,Karnataka
+2018,Flood,Rice,Tamil Nadu
+2019,Cyclone,Sorghum,Bihar
+2020,Pest,Wheat,Chhattisgarh
+2021,Drought,Rice,Andhra Pradesh
+2022,Cyclone,Cotton,Telangana
+2023,Flood,Sorghum,Uttar Pradesh
+2010,Drought,Pigeon pea,Maharashtra
+2016,Pest,Mustard,Karnataka
+2018,Cyclone,Maize,Tamil Nadu
+2014,Flood,Chickpea,Bihar
+2013,Pest,Soybean,Chhattisgarh
+2019,Drought,Sugarcane,Andhra Pradesh
+2017,Flood,Cotton,Telangana
+2021,Cyclone,Rice,Uttar Pradesh
+2015,Drought,Wheat,Maharashtra
+2012,Pest,Maize,Karnataka
+2023,Cyclone,Soybean,Tamil Nadu
+2022,Pest,Pigeon pea,Bihar
+2011,Flood,Sorghum,Chhattisgarh
+2020,Drought,Mustard,Andhra Pradesh
+2013,Pest,Chickpea,Telangana
+2016,Flood,Sugarcane,Uttar Pradesh
+2014,Cyclone,Sorghum,Maharashtra
+2019,Drought,Chickpea,Karnataka
+2017,Flood,Rice,Tamil Nadu
+2012,Cyclone,Soybean,Bihar
+2022,Pest,Wheat,Chhattisgarh
+2020,Drought,Cotton,Andhra Pradesh
+2018,Flood,Pigeon pea,Telangana
+2015,Cyclone,Mustard,Uttar Pradesh
+2023,Drought,Maize,Maharashtra
+2011,Pest,Sugarcane,Karnataka
+2021,Flood,Rice,Tamil Nadu
+2010,Drought,Soybean,Bihar
+2018,Cyclone,Mustard,Chhattisgarh
+2012,Pest,Pigeon pea,Andhra Pradesh
+2014,Flood,Cotton,Telangana
+2016,Drought,Sorghum,Uttar Pradesh
+2022,Cyclone,Wheat,Maharashtra
+2011,Pest,Chickpea,Karnataka
+2019,Flood,Maize,Tamil Nadu
+2013,Drought,Sugarcane,Bihar
+2023,Cyclone,Rice,Chhattisgarh
+2020,Flood,Cotton,Andhra Pradesh
+2015,Pest,Pigeon pea,Telangana
+2017,Drought,Soybean,Uttar Pradesh
+2016,Flood,Wheat,Maharashtra
+2014,Cyclone,Chickpea,Karnataka
+2012,Drought,Mustard,Tamil Nadu
+2011,Pest,Sorghum,Bihar
+2021,Cyclone,Sugarcane,Chhattisgarh
+2010,Pest,Rice,Andhra Pradesh
+2018,Flood,Cotton,Telangana
+2013,Drought,Sorghum,Uttar Pradesh
+2019,Pest,Mustard,Maharashtra
+2020,Flood,Maize,Karnataka
+2017,Cyclone,Wheat,Tamil Nadu
+2015,Drought,Soybean,Bihar
+2022,Flood,Pigeon pea,Chhattisgarh
+2016,Cyclone,Chickpea,Andhra Pradesh
+2014,Pest,Sugarcane,Telangana
+2023,Drought,Rice,Uttar Pradesh
+2011,Flood,Cotton,Maharashtra
+2012,Cyclone,Soybean,Karnataka
+2017,Drought,Mustard,Tamil Nadu
+2019,Pest,Sorghum,Bihar
+2010,Flood,Pigeon pea,Chhattisgarh
+2018,Drought,Wheat,Andhra Pradesh
+2021,Cyclone,Rice,Telangana
+2013,Pest,Chickpea,Uttar Pradesh
+2020,Flood,Maize,Maharashtra
+2014,Drought,Cotton,Karnataka
+2015,Cyclone,Soybean,Tamil Nadu
+2016,Pest,Mustard,Bihar
+2022,Flood,Pigeon pea,Chhattisgarh
+2011,Drought,Sugarcane,Andhra Pradesh
+2023,Cyclone,Wheat,Telangana
+2012,Flood,Rice,Uttar Pradesh
+2017,Pest,Soybean,Maharashtra
+2019,Drought,Chickpea,Karnataka
+2010,Flood,Mustard,Tamil Nadu
+2018,Cyclone,Sorghum,Bihar
+2014,Drought,Cotton,Chhattisgarh
+2021,Pest,Pigeon pea,Andhra Pradesh
+2016,Cyclone,Maize,Telangana
+2013,Pest,Sugarcane,Uttar Pradesh
+2022,Flood,Soybean,Maharashtra
+2015,Drought,Rice,Karnataka
+2011,Pest,Mustard,Tamil Nadu
+2020,Flood,Wheat,Bihar
+2017,Cyclone,Cotton,Chhattisgarh
+2012,Drought,Pigeon pea,Andhra Pradesh
+2019,Flood,Sorghum,Telangana
+2023,Cyclone,Chickpea,Uttar Pradesh
+2018,Pest,Maize,Maharashtra
+2014,Drought,Sugarcane,Karnataka
+2010,Flood,Rice,Tamil Nadu
+2016,Cyclone,Wheat,Bihar
+2021,Drought,Mustard,Chhattisgarh
+2013,Pest,Cotton,Andhra Pradesh
+2015,Flood,Pigeon pea,Telangana
+2017,Drought,Soybean,Uttar Pradesh
+2012,Cyclone,Chickpea,Maharashtra
+2022,Pest,Sorghum,Karnataka
+2019,Flood,Maize,Tamil Nadu
+2011,Drought,Sugarcane,Bihar
+2020,Cyclone,Mustard,Chhattisgarh
+2014,Pest,Rice,Andhra Pradesh
+2018,Flood,Pigeon pea,Telangana
+2016,Drought,Wheat,Uttar Pradesh
+2023,Cyclone,Cotton,Maharashtra
