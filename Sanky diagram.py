@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.graph_objects as go
 
 # Read data from CSV file
-df = pd.read_csv('C:\\Users\\Hp\\Desktop\\Harshit\\book1.csv')  # put csv name and location
+df = pd.read_csv('C:\\Users\\Hp\\Desktop\\Sample_Database.csv')  # put csv name and location
 
 # Create a mapping for nodes to integers
 unique_years = df['Year'].unique()
